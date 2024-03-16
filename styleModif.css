@@ -1,0 +1,63 @@
+.background-tab-titre{
+    background-color: #333030;
+}
+
+.background-tab{
+    background-color: #494545;
+}
+
+td{
+    text-align: center;
+}
+
+.grande-image{
+    width: 30%;
+}
+
+.width100{
+    width: 100%;
+}
+
+.width80{
+    width: 80%;
+}
+
+.width30{
+    width: 30%;
+}
+
+.flex-centre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-space-around{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.colonne{
+    flex-direction: column;
+}
+
+.ligne{
+    flex-direction: row;
+}
+
+.padding10{
+    padding: 10px;
+}
+
+.none{
+    display: none;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.border-bottom{
+    border: solid 1px black;
+}
